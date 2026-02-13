@@ -1,0 +1,701 @@
+Segment;Customer_ID;Units Sold;Sales;Profit;Date;Year;Product_Name;Country
+Enterprise;CUST_ID_001; 345,00 ; 43 125,00 ; 1 725,00 ;22.09.2023;2023;Montana;USA
+Midmarket;CUST_ID_002; 549,00 ; 8 235,00 ; 2 745,00 ;11.01.2023;2023;Paseo;Canada
+Small Business;CUST_ID_003; 788,00 ; 236 400,00 ; 39 400,00 ;27.01.2024;2024;Paseo;England
+Government;CUST_ID_004; 1 725,00 ; 603 750,00 ; 155 250,00 ;01.08.2023;2023;Paseo;France
+Channel Partners;CUST_ID_005; 912,00 ; 10 944,00 ; 8 208,00 ;08.07.2024;2024;Paseo;Germany
+Midmarket;CUST_ID_006; 2 152,00 ; 32 280,00 ; 10 760,00 ;28.09.2024;2024;Paseo;Italy
+Enterprise;CUST_ID_007; 345,00 ; 43 125,00 ; 1 725,00 ;26.09.2023;2023;Velo;India
+Government;CUST_ID_008; 1 527,00 ; 534 450,00 ; 137 430,00 ;11.02.2023;2023;VTT;Japan
+Enterprise;CUST_ID_009; 330,00 ; 40 837,50 ; 1 237,50 ;12.01.2024;2024;Carretera;USA
+Channel Partners;CUST_ID_010; 766,00 ; 9 100,08 ; 6 802,08 ;06.04.2024;2024;Carretera;Canada
+Small Business;CUST_ID_011; 494,00 ; 146 718,00 ; 23 218,00 ;19.11.2023;2023;Carretera;England
+Small Business;CUST_ID_012; 2 498,00 ; 741 906,00 ; 117 406,00 ;20.12.2023;2023;Montana;France
+Enterprise;CUST_ID_013; 663,00 ; 82 046,25 ; 2 486,25 ;27.02.2023;2023;Montana;Germany
+Channel Partners;CUST_ID_014; 766,00 ; 9 100,08 ; 6 802,08 ;10.07.2024;2024;Paseo;Italy
+Enterprise;CUST_ID_015; 663,00 ; 82 046,25 ; 2 486,25 ;29.03.2024;2024;Velo;India
+Government;CUST_ID_016; 2 092,00 ; 14 497,56 ; 4 037,56 ;19.10.2024;2024;Velo;Japan
+Small Business;CUST_ID_017; 494,00 ; 146 718,00 ; 23 218,00 ;31.07.2024;2024;VTT;USA
+Channel Partners;CUST_ID_018; 1 989,00 ; 23 629,32 ; 17 662,32 ;29.03.2024;2024;Amarilla;Canada
+Midmarket;CUST_ID_019; 321,00 ; 4 766,85 ; 1 556,85 ;27.07.2024;2024;Amarilla;England
+Small Business;CUST_ID_020; 214,00 ; 62 916,00 ; 9 416,00 ;30.08.2023;2023;Carretera;France
+Government;CUST_ID_021; 2 145,00 ; 14 714,70 ; 3 989,70 ;15.10.2023;2023;Carretera;Germany
+Enterprise;CUST_ID_022; 1 660,00 ; 203 350,00 ; 4 150,00 ;30.10.2024;2024;Montana;Italy
+Enterprise;CUST_ID_023; 809,00 ; 99 102,50 ; 2 022,50 ;10.12.2023;2023;Paseo;India
+Enterprise;CUST_ID_024; 2 145,00 ; 262 762,50 ; 5 362,50 ;23.05.2023;2023;Paseo;Japan
+Channel Partners;CUST_ID_025; 1 785,00 ; 20 991,60 ; 15 636,60 ;18.02.2023;2023;Paseo;USA
+Midmarket;CUST_ID_026; 1 925,00 ; 28 297,50 ; 9 047,50 ;28.01.2023;2023;Paseo;Canada
+Government;CUST_ID_027; 2 013,00 ; 13 809,18 ; 3 744,18 ;21.12.2024;2024;Paseo;England
+Government;CUST_ID_028; 2 966,00 ; 1 017 338,00 ; 246 178,00 ;13.01.2024;2024;Velo;France
+Enterprise;CUST_ID_029; 809,00 ; 99 102,50 ; 2 022,50 ;08.11.2024;2024;Velo;Germany
+Enterprise;CUST_ID_030; 2 145,00 ; 262 762,50 ; 5 362,50 ;19.01.2023;2023;Velo;Italy
+Government;CUST_ID_031; 544,00 ; 10 662,40 ; 5 222,40 ;30.07.2023;2023;Velo;India
+Small Business;CUST_ID_032; 214,00 ; 62 916,00 ; 9 416,00 ;21.02.2023;2023;VTT;Japan
+Government;CUST_ID_033; 266,00 ; 91 238,00 ; 22 078,00 ;28.01.2024;2024;VTT;USA
+Government;CUST_ID_034; 1 940,00 ; 665 420,00 ; 161 020,00 ;12.01.2024;2024;VTT;Canada
+Government;CUST_ID_035; 2 966,00 ; 1 017 338,00 ; 246 178,00 ;01.07.2024;2024;Amarilla;England
+Channel Partners;CUST_ID_036; 908,00 ; 10 569,12 ; 7 845,12 ;11.12.2024;2024;Carretera;France
+Government;CUST_ID_037; 1 797,00 ; 610 081,50 ; 142 861,50 ;16.05.2023;2023;Montana;Germany
+Midmarket;CUST_ID_038; 1 945,00 ; 28 299,75 ; 8 849,75 ;02.05.2024;2024;Paseo;Italy
+Midmarket;CUST_ID_039; 1 945,00 ; 28 299,75 ; 8 849,75 ;02.04.2024;2024;VTT;India
+Government;CUST_ID_040; 1 760,00 ; 11 950,40 ; 3 150,40 ;03.11.2023;2023;Paseo;Japan
+Midmarket;CUST_ID_002; 2 261,00 ; 32 558,40 ; 9 948,40 ;10.04.2024;2024;Paseo;Canada
+Government;CUST_ID_041; 736,00 ; 14 131,20 ; 6 771,20 ;12.07.2024;2024;Velo;USA
+Government;CUST_ID_042; 2 851,00 ; 19 158,72 ; 4 903,72 ;20.12.2024;2024;Carretera;Canada
+Government;CUST_ID_043; 2 851,00 ; 19 158,72 ; 4 903,72 ;14.07.2023;2023;Montana;England
+Midmarket;CUST_ID_026; 671,00 ; 9 662,40 ; 2 952,40 ;15.01.2023;2023;Paseo;Canada
+Midmarket;CUST_ID_044; 1 514,00 ; 21 801,60 ; 6 661,60 ;22.03.2024;2024;Paseo;France
+Government;CUST_ID_016; 2 646,00 ; 50 803,20 ; 24 343,20 ;05.06.2024;2024;Velo;Japan
+Government;CUST_ID_033; 349,00 ; 117 264,00 ; 26 524,00 ;16.02.2023;2023;VTT;USA
+Midmarket;CUST_ID_045; 1 514,00 ; 21 801,60 ; 6 661,60 ;15.09.2023;2023;VTT;Germany
+Midmarket;CUST_ID_046; 671,00 ; 9 662,40 ; 2 952,40 ;19.10.2024;2024;Amarilla;Italy
+Government;CUST_ID_047; 1 778,00 ; 597 408,00 ; 135 128,00 ;31.12.2023;2023;Amarilla;India
+Government;CUST_ID_037; 1 159,00 ; 7 707,35 ; 1 912,35 ;17.08.2024;2024;Montana;Germany
+Government;CUST_ID_004; 2 349,00 ; 15 620,85 ; 3 875,85 ;28.09.2024;2024;Paseo;France
+Government;CUST_ID_035; 1 159,00 ; 7 707,35 ; 1 912,35 ;28.03.2023;2023;Amarilla;England
+Government;CUST_ID_048; 1 016,00 ; 6 756,40 ; 1 676,40 ;24.05.2024;2024;Carretera;Japan
+Government;CUST_ID_049; 720,00 ; 239 400,00 ; 52 200,00 ;08.04.2023;2023;Montana;USA
+Small Business;CUST_ID_050; 1 100,00 ; 313 500,00 ; 38 500,00 ;20.01.2023;2023;Montana;Canada
+Government;CUST_ID_004; 1 228,00 ; 408 310,00 ; 89 030,00 ;09.01.2023;2023;Paseo;France
+Government;CUST_ID_004; 1 389,00 ; 26 391,00 ; 12 501,00 ;16.12.2023;2023;Paseo;France
+Enterprise;CUST_ID_051; 704,00 ; 83 600,00 ; -880,00 ;25.07.2023;2023;Paseo;England
+Government;CUST_ID_004; 1 802,00 ; 34 238,00 ; 16 218,00 ;30.09.2023;2023;Paseo;France
+Government;CUST_ID_052; 2 136,00 ; 14 204,40 ; 3 524,40 ;22.07.2023;2023;Paseo;France
+Midmarket;CUST_ID_038; 2 116,00 ; 30 153,00 ; 8 993,00 ;16.03.2024;2024;Paseo;Italy
+Enterprise;CUST_ID_053; 704,00 ; 83 600,00 ; -880,00 ;25.04.2023;2023;Velo;Germany
+Government;CUST_ID_054; 1 033,00 ; 19 627,00 ; 9 297,00 ;28.10.2024;2024;Velo;Italy
+Government;CUST_ID_055; 1 389,00 ; 26 391,00 ; 12 501,00 ;07.09.2023;2023;VTT;India
+Government;CUST_ID_033; 1 265,00 ; 24 035,00 ; 11 385,00 ;03.07.2023;2023;VTT;USA
+Government;CUST_ID_056; 2 297,00 ; 43 643,00 ; 20 673,00 ;31.07.2023;2023;VTT;Japan
+Government;CUST_ID_047; 1 228,00 ; 408 310,00 ; 89 030,00 ;11.01.2024;2024;Amarilla;India
+Channel Partners;CUST_ID_036; 2 299,00 ; 25 932,72 ; 19 035,72 ;01.01.2024;2024;Carretera;France
+Government;CUST_ID_057; 263,00 ; 1 730,54 ; 415,54 ;15.04.2023;2023;Carretera;USA
+Enterprise;CUST_ID_058; 887,00 ; 104 222,50 ; -2 217,50 ;16.08.2024;2024;Carretera;Canada
+Government;CUST_ID_059; 1 403,00 ; 9 231,74 ; 2 216,74 ;25.09.2024;2024;Montana;England
+Channel Partners;CUST_ID_060; 2 299,00 ; 25 932,72 ; 19 035,72 ;25.04.2023;2023;Paseo;France
+Government;CUST_ID_027; 727,00 ; 239 183,00 ; 50 163,00 ;19.04.2024;2024;Paseo;England
+Small Business;CUST_ID_061; 1 221,00 ; 344 322,00 ; 39 072,00 ;25.05.2023;2023;Velo;Germany
+Government;CUST_ID_054; 2 076,00 ; 683 004,00 ; 143 244,00 ;24.09.2023;2023;Velo;Italy
+Small Business;CUST_ID_062; 1 221,00 ; 344 322,00 ; 39 072,00 ;20.08.2023;2023;VTT;Italy
+Government;CUST_ID_034; 1 123,00 ; 21 112,40 ; 9 882,40 ;25.07.2024;2024;VTT;Canada
+Small Business;CUST_ID_063; 2 436,00 ; 686 952,00 ; 77 952,00 ;05.03.2023;2023;VTT;India
+Government;CUST_ID_064; 727,00 ; 239 183,00 ; 50 163,00 ;21.02.2024;2024;Amarilla;Japan
+Government;CUST_ID_065; 1 403,00 ; 9 231,74 ; 2 216,74 ;08.09.2023;2023;Amarilla;USA
+Government;CUST_ID_065; 2 076,00 ; 683 004,00 ; 143 244,00 ;21.08.2024;2024;Amarilla;USA
+Government;CUST_ID_059; 1 757,00 ; 33 031,60 ; 15 461,60 ;18.05.2024;2024;Montana;England
+Government;CUST_ID_052; 1 757,00 ; 33 031,60 ; 15 461,60 ;29.08.2024;2024;Paseo;France
+Government;CUST_ID_066; 1 834,00 ; 34 112,40 ; 15 772,40 ;23.04.2024;2024;Carretera;Canada
+Government;CUST_ID_052; 1 031,00 ; 6 711,81 ; 1 556,81 ;06.02.2024;2024;Paseo;France
+Channel Partners;CUST_ID_067; 2 215,00 ; 24 719,40 ; 18 074,40 ;02.01.2023;2023;VTT;England
+Enterprise;CUST_ID_068; 2 500,00 ; 290 625,00 ; -9 375,00 ;13.03.2023;2023;Montana;France
+Midmarket;CUST_ID_026; 2 931,00 ; 40 887,45 ; 11 577,45 ;12.09.2023;2023;Paseo;Canada
+Small Business;CUST_ID_069; 1 123,00 ; 313 317,00 ; 32 567,00 ;16.06.2023;2023;Paseo;Germany
+Small Business;CUST_ID_070; 1 404,00 ; 391 716,00 ; 40 716,00 ;19.05.2024;2024;Paseo;Italy
+Channel Partners;CUST_ID_071; 2 763,00 ; 30 835,08 ; 22 546,08 ;07.04.2023;2023;Paseo;India
+Government;CUST_ID_072; 2 125,00 ; 13 833,75 ; 3 208,75 ;14.06.2024;2024;Paseo;Japan
+Government;CUST_ID_041; 1 421,00 ; 26 430,60 ; 12 220,60 ;11.02.2024;2024;Velo;USA
+Government;CUST_ID_028; 588,00 ; 10 936,80 ; 5 056,80 ;05.05.2024;2024;Velo;France
+Enterprise;CUST_ID_073; 994,00 ; 115 552,50 ; -3 727,50 ;06.06.2024;2024;Amarilla;USA
+Small Business;CUST_ID_074; 1 283,00 ; 354 108,00 ; 33 358,00 ;13.08.2023;2023;Montana;Canada
+Government;CUST_ID_072; 2 409,00 ; 15 513,96 ; 3 468,96 ;14.11.2024;2024;Paseo;Japan
+Government;CUST_ID_072; 2 146,00 ; 691 012,00 ; 133 052,00 ;21.10.2023;2023;Paseo;Japan
+Government;CUST_ID_040; 1 946,00 ; 12 532,24 ; 2 802,24 ;16.02.2023;2023;Paseo;Japan
+Small Business;CUST_ID_061; 386,00 ; 106 536,00 ; 10 036,00 ;12.11.2024;2024;Velo;Germany
+Small Business;CUST_ID_075; 808,00 ; 223 008,00 ; 21 008,00 ;30.06.2024;2024;VTT;England
+Channel Partners;CUST_ID_076; 1 375,00 ; 15 180,00 ; 11 055,00 ;07.10.2024;2024;Amarilla;France
+Channel Partners;CUST_ID_077; 367,00 ; 4 007,64 ; 2 906,64 ;17.02.2024;2024;Carretera;Germany
+Small Business;CUST_ID_078; 322,00 ; 87 906,00 ; 7 406,00 ;14.06.2023;2023;Montana;Italy
+Enterprise;CUST_ID_079; 1 857,00 ; 211 233,75 ; -11 606,25 ;29.04.2024;2024;Montana;India
+Government;CUST_ID_043; 1 611,00 ; 10 262,07 ; 2 207,07 ;30.11.2024;2024;Montana;England
+Small Business;CUST_ID_080; 334,00 ; 91 182,00 ; 7 682,00 ;19.03.2024;2024;Montana;Japan
+Channel Partners;CUST_ID_071; 367,00 ; 4 007,64 ; 2 906,64 ;25.06.2024;2024;Paseo;India
+Channel Partners;CUST_ID_014; 1 775,00 ; 19 383,00 ; 14 058,00 ;09.03.2024;2024;Paseo;Italy
+Channel Partners;CUST_ID_081; 2 234,00 ; 24 395,28 ; 17 693,28 ;11.07.2023;2023;VTT;USA
+Midmarket;CUST_ID_082; 970,00 ; 13 240,50 ; 3 540,50 ;16.08.2024;2024;Amarilla;Canada
+Government;CUST_ID_008; 2 682,00 ; 48 812,40 ; 21 992,40 ;20.01.2024;2024;VTT;Japan
+Channel Partners;CUST_ID_083; 306,00 ; 3 341,52 ; 2 423,52 ;12.11.2023;2023;Amarilla;England
+Channel Partners;CUST_ID_084; 386,00 ; 4 168,80 ; 3 010,80 ;21.08.2024;2024;Carretera;France
+Channel Partners;CUST_ID_005; 386,00 ; 4 168,80 ; 3 010,80 ;13.01.2024;2024;Paseo;Germany
+Enterprise;CUST_ID_085; 1 482,00 ; 166 725,00 ; -11 115,00 ;28.04.2024;2024;Carretera;Germany
+Enterprise;CUST_ID_013; 1 804,00 ; 202 950,00 ; -13 530,00 ;21.04.2024;2024;Montana;Germany
+Midmarket;CUST_ID_002; 2 167,00 ; 29 254,50 ; 7 584,50 ;25.09.2023;2023;Paseo;Canada
+Small Business;CUST_ID_086; 2 294,00 ; 619 380,00 ; 45 880,00 ;11.04.2024;2024;Velo;Italy
+Enterprise;CUST_ID_007; 1 916,00 ; 215 550,00 ; -14 370,00 ;08.02.2023;2023;Velo;India
+Small Business;CUST_ID_075; 2 294,00 ; 619 380,00 ; 45 880,00 ;18.06.2024;2024;VTT;England
+Midmarket;CUST_ID_087; 2 167,00 ; 29 254,50 ; 7 584,50 ;11.08.2024;2024;VTT;India
+Government;CUST_ID_056; 1 870,00 ; 589 050,00 ; 102 850,00 ;23.07.2024;2024;VTT;Japan
+Channel Partners;CUST_ID_088; 1 198,00 ; 12 794,64 ; 9 200,64 ;21.04.2024;2024;Carretera;Japan
+Channel Partners;CUST_ID_025; 1 198,00 ; 12 794,64 ; 9 200,64 ;26.04.2024;2024;Paseo;USA
+Channel Partners;CUST_ID_089; 1 005,00 ; 10 733,40 ; 7 718,40 ;22.06.2023;2023;VTT;USA
+Midmarket;CUST_ID_090; 1 560,00 ; 20 826,00 ; 5 226,00 ;23.01.2023;2023;Carretera;Canada
+Government;CUST_ID_066; 2 706,00 ; 16 858,38 ; 3 328,38 ;25.03.2024;2024;Carretera;Canada
+Government;CUST_ID_037; 2 992,00 ; 53 257,60 ; 23 337,60 ;30.12.2024;2024;Montana;Germany
+Government;CUST_ID_072; 2 992,00 ; 53 257,60 ; 23 337,60 ;15.04.2024;2024;Paseo;Japan
+Government;CUST_ID_054; 2 805,00 ; 49 929,00 ; 21 879,00 ;09.10.2023;2023;Velo;Italy
+Midmarket;CUST_ID_091; 655,00 ; 8 744,25 ; 2 194,25 ;31.10.2023;2023;Velo;England
+Government;CUST_ID_031; 344,00 ; 107 156,00 ; 17 716,00 ;03.04.2024;2024;Velo;India
+Government;CUST_ID_055; 2 935,00 ; 52 243,00 ; 22 893,00 ;09.03.2024;2024;VTT;India
+Enterprise;CUST_ID_092; 947,00 ; 105 353,75 ; -8 286,25 ;24.10.2023;2023;Amarilla;France
+Government;CUST_ID_093; 344,00 ; 107 156,00 ; 17 716,00 ;03.10.2024;2024;Amarilla;Germany
+Government;CUST_ID_027; 380,00 ; 2 367,40 ; 467,40 ;30.04.2024;2024;Paseo;England
+Enterprise;CUST_ID_094; 2 416,00 ; 265 760,00 ; -24 160,00 ;11.11.2023;2023;Carretera;Italy
+Government;CUST_ID_049; 1 715,00 ; 30 184,00 ; 13 034,00 ;12.12.2024;2024;Montana;USA
+Small Business;CUST_ID_078; 1 186,00 ; 313 104,00 ; 16 604,00 ;17.07.2024;2024;Montana;Italy
+Government;CUST_ID_040; 1 715,00 ; 30 184,00 ; 13 034,00 ;19.10.2024;2024;Paseo;Japan
+Midmarket;CUST_ID_044; 380,00 ; 5 016,00 ; 1 216,00 ;17.05.2024;2024;Paseo;France
+Government;CUST_ID_055; 623,00 ; 191 884,00 ; 29 904,00 ;28.02.2023;2023;VTT;India
+Midmarket;CUST_ID_046; 2 548,00 ; 33 633,60 ; 8 153,60 ;16.12.2023;2023;Amarilla;Italy
+Channel Partners;CUST_ID_095; 2 761,00 ; 29 156,16 ; 20 873,16 ;07.01.2023;2023;Amarilla;India
+Government;CUST_ID_048; 442,00 ; 7 690,80 ; 3 270,80 ;22.03.2023;2023;Carretera;Japan
+Midmarket;CUST_ID_096; 660,00 ; 8 613,00 ; 2 013,00 ;04.07.2024;2024;Velo;Japan
+Small Business;CUST_ID_097; 2 605,00 ; 679 905,00 ; 28 655,00 ;21.08.2024;2024;Velo;USA
+Channel Partners;CUST_ID_098; 1 770,00 ; 18 478,80 ; 13 168,80 ;21.01.2023;2023;Amarilla;Canada
+Government;CUST_ID_057; 2 996,00 ; 18 035,92 ; 3 055,92 ;04.06.2023;2023;Carretera;USA
+Government;CUST_ID_099; 2 996,00 ; 18 035,92 ; 3 055,92 ;06.03.2024;2024;Montana;England
+Channel Partners;CUST_ID_018; 2 015,00 ; 20 794,80 ; 14 749,80 ;07.08.2024;2024;Amarilla;Canada
+Enterprise;CUST_ID_085; 1 023,00 ; 109 972,50 ; -12 787,50 ;28.03.2023;2023;Carretera;Germany
+Enterprise;CUST_ID_100; 2 821,00 ; 303 257,50 ; -35 262,50 ;08.07.2024;2024;Carretera;France
+Government;CUST_ID_049; 1 727,00 ; 10 396,54 ; 1 761,54 ;16.11.2023;2023;Montana;USA
+Midmarket;CUST_ID_006; 2 470,00 ; 31 863,00 ; 7 163,00 ;01.04.2023;2023;Paseo;Italy
+Midmarket;CUST_ID_006; 1 743,00 ; 22 484,70 ; 5 054,70 ;22.04.2024;2024;Paseo;Italy
+Channel Partners;CUST_ID_060; 2 222,00 ; 22 931,04 ; 16 265,04 ;01.05.2023;2023;Paseo;France
+Government;CUST_ID_052; 1 922,00 ; 578 522,00 ; 78 802,00 ;19.06.2024;2024;Paseo;France
+Small Business;CUST_ID_101; 269,00 ; 69 402,00 ; 2 152,00 ;08.01.2024;2024;Velo;Germany
+Small Business;CUST_ID_102; 2 536,00 ; 654 288,00 ; 20 288,00 ;03.09.2024;2024;Velo;Italy
+Small Business;CUST_ID_063; 269,00 ; 69 402,00 ; 2 152,00 ;19.10.2024;2024;VTT;India
+Government;CUST_ID_008; 1 281,00 ; 385 581,00 ; 52 521,00 ;19.01.2024;2024;VTT;Japan
+Midmarket;CUST_ID_103; 1 743,00 ; 22 484,70 ; 5 054,70 ;07.10.2023;2023;Amarilla;India
+Government;CUST_ID_093; 1 727,00 ; 10 396,54 ; 1 761,54 ;30.11.2024;2024;Amarilla;Germany
+Midmarket;CUST_ID_104; 1 870,00 ; 24 123,00 ; 5 423,00 ;21.11.2023;2023;Amarilla;Japan
+Government;CUST_ID_027; 267,00 ; 4 539,00 ; 1 869,00 ;21.03.2023;2023;Paseo;England
+Government;CUST_ID_027; 2 007,00 ; 597 082,50 ; 75 262,50 ;02.09.2024;2024;Paseo;England
+Government;CUST_ID_040; 2 151,00 ; 639 922,50 ; 80 662,50 ;01.02.2023;2023;Paseo;Japan
+Small Business;CUST_ID_086; 2 574,00 ; 656 370,00 ; 12 870,00 ;13.06.2024;2024;Velo;Italy
+Enterprise;CUST_ID_015; 2 438,00 ; 259 037,50 ; -33 522,50 ;02.03.2023;2023;Velo;India
+Government;CUST_ID_033; 267,00 ; 4 539,00 ; 1 869,00 ;27.10.2023;2023;VTT;USA
+Enterprise;CUST_ID_105; 2 954,00 ; 313 862,50 ; -40 617,50 ;22.02.2023;2023;VTT;USA
+Government;CUST_ID_042; 1 618,50 ; 32 370,00 ; 16 185,00 ;02.03.2023;2023;Carretera;Canada
+Government;CUST_ID_048; 1 321,00 ; 26 420,00 ; 13 210,00 ;08.03.2023;2023;Carretera;Japan
+Midmarket;CUST_ID_106; 2 178,00 ; 32 670,00 ; 10 890,00 ;08.11.2024;2024;Carretera;Canada
+Midmarket;CUST_ID_107; 888,00 ; 13 320,00 ; 4 440,00 ;18.05.2023;2023;Carretera;England
+Midmarket;CUST_ID_108; 2 470,00 ; 37 050,00 ; 12 350,00 ;16.09.2024;2024;Carretera;France
+Government;CUST_ID_048; 1 513,00 ; 529 550,00 ; 136 170,00 ;11.01.2024;2024;Carretera;Japan
+Midmarket;CUST_ID_109; 921,00 ; 13 815,00 ; 4 605,00 ;23.10.2024;2024;Montana;Germany
+Channel Partners;CUST_ID_110; 2 518,00 ; 30 216,00 ; 22 662,00 ;24.10.2023;2023;Montana;Italy
+Government;CUST_ID_059; 1 899,00 ; 37 980,00 ; 18 990,00 ;02.01.2024;2024;Montana;England
+Channel Partners;CUST_ID_111; 1 545,00 ; 18 540,00 ; 13 905,00 ;14.03.2023;2023;Montana;India
+Midmarket;CUST_ID_112; 2 470,00 ; 37 050,00 ; 12 350,00 ;29.07.2023;2023;Montana;Japan
+Enterprise;CUST_ID_001; 2 665,50 ; 333 187,50 ; 13 327,50 ;25.02.2024;2024;Montana;USA
+Small Business;CUST_ID_050; 958,00 ; 287 400,00 ; 47 900,00 ;13.02.2024;2024;Montana;Canada
+Government;CUST_ID_037; 2 146,00 ; 15 022,00 ; 4 292,00 ;25.01.2024;2024;Montana;Germany
+Midmarket;CUST_ID_113; 615,00 ; 9 225,00 ; 3 075,00 ;09.03.2023;2023;Montana;USA
+Government;CUST_ID_004; 292,00 ; 5 840,00 ; 2 920,00 ;30.04.2023;2023;Paseo;France
+Midmarket;CUST_ID_044; 974,00 ; 14 610,00 ; 4 870,00 ;04.04.2024;2024;Paseo;France
+Channel Partners;CUST_ID_060; 2 518,00 ; 30 216,00 ; 22 662,00 ;04.11.2024;2024;Paseo;France
+Government;CUST_ID_072; 1 006,00 ; 352 100,00 ; 90 540,00 ;20.07.2024;2024;Paseo;Japan
+Channel Partners;CUST_ID_014; 367,00 ; 4 404,00 ; 3 303,00 ;24.05.2023;2023;Paseo;Italy
+Government;CUST_ID_040; 883,00 ; 6 181,00 ; 1 766,00 ;29.08.2023;2023;Paseo;Japan
+Midmarket;CUST_ID_044; 2 472,00 ; 37 080,00 ; 12 360,00 ;27.02.2023;2023;Paseo;France
+Government;CUST_ID_027; 1 143,00 ; 8 001,00 ; 2 286,00 ;10.11.2024;2024;Paseo;England
+Government;CUST_ID_004; 1 817,00 ; 36 340,00 ; 18 170,00 ;18.01.2024;2024;Paseo;France
+Government;CUST_ID_072; 1 513,00 ; 529 550,00 ; 136 170,00 ;11.02.2024;2024;Paseo;Japan
+Government;CUST_ID_031; 1 493,00 ; 10 451,00 ; 2 986,00 ;04.03.2024;2024;Velo;India
+Enterprise;CUST_ID_053; 1 804,00 ; 225 500,00 ; 9 020,00 ;28.06.2024;2024;Velo;Germany
+Channel Partners;CUST_ID_114; 2 161,00 ; 25 932,00 ; 19 449,00 ;19.08.2023;2023;Velo;Canada
+Government;CUST_ID_028; 1 006,00 ; 352 100,00 ; 90 540,00 ;04.10.2024;2024;Velo;France
+Channel Partners;CUST_ID_114; 1 545,00 ; 18 540,00 ; 13 905,00 ;04.08.2024;2024;Velo;Canada
+Enterprise;CUST_ID_015; 2 821,00 ; 352 625,00 ; 14 105,00 ;19.08.2024;2024;Velo;India
+Small Business;CUST_ID_063; 2 001,00 ; 600 300,00 ; 100 050,00 ;26.03.2024;2024;VTT;India
+Channel Partners;CUST_ID_067; 2 838,00 ; 34 056,00 ; 25 542,00 ;03.07.2024;2024;VTT;England
+Midmarket;CUST_ID_087; 2 178,00 ; 32 670,00 ; 10 890,00 ;24.07.2023;2023;VTT;India
+Midmarket;CUST_ID_039; 888,00 ; 13 320,00 ; 4 440,00 ;03.02.2023;2023;VTT;India
+Small Business;CUST_ID_062; 2 151,00 ; 645 300,00 ; 107 550,00 ;23.05.2023;2023;VTT;Italy
+Government;CUST_ID_055; 1 817,00 ; 36 340,00 ; 18 170,00 ;15.12.2024;2024;VTT;India
+Government;CUST_ID_065; 2 750,00 ; 962 500,00 ; 247 500,00 ;23.08.2023;2023;Amarilla;USA
+Channel Partners;CUST_ID_018; 1 953,00 ; 23 436,00 ; 17 577,00 ;13.10.2023;2023;Amarilla;Canada
+Enterprise;CUST_ID_073; 4 219,50 ; 527 437,50 ; 21 097,50 ;20.02.2024;2024;Amarilla;USA
+Government;CUST_ID_065; 1 899,00 ; 37 980,00 ; 18 990,00 ;03.07.2024;2024;Amarilla;USA
+Government;CUST_ID_035; 1 686,00 ; 11 802,00 ; 3 372,00 ;14.09.2024;2024;Amarilla;England
+Channel Partners;CUST_ID_018; 2 141,00 ; 25 692,00 ; 19 269,00 ;15.11.2023;2023;Amarilla;Canada
+Government;CUST_ID_064; 1 143,00 ; 8 001,00 ; 2 286,00 ;23.04.2024;2024;Amarilla;Japan
+Midmarket;CUST_ID_046; 615,00 ; 9 225,00 ; 3 075,00 ;26.12.2023;2023;Amarilla;Italy
+Government;CUST_ID_052; 3 945,00 ; 27 338,85 ; 7 613,85 ;23.09.2023;2023;Paseo;France
+Midmarket;CUST_ID_002; 2 296,00 ; 34 095,60 ; 11 135,60 ;16.12.2023;2023;Paseo;Canada
+Government;CUST_ID_052; 1 030,00 ; 7 137,90 ; 1 987,90 ;12.08.2024;2024;Paseo;France
+Government;CUST_ID_054; 639,00 ; 4 428,27 ; 1 233,27 ;31.10.2023;2023;Velo;Italy
+Government;CUST_ID_055; 1 326,00 ; 9 189,18 ; 2 559,18 ;19.03.2024;2024;VTT;India
+Channel Partners;CUST_ID_084; 1 858,00 ; 22 073,04 ; 16 499,04 ;07.09.2024;2024;Carretera;France
+Government;CUST_ID_066; 1 210,00 ; 419 265,00 ; 104 665,00 ;27.06.2023;2023;Carretera;Canada
+Government;CUST_ID_057; 2 529,00 ; 17 525,97 ; 4 880,97 ;20.08.2023;2023;Carretera;USA
+Channel Partners;CUST_ID_036; 1 445,00 ; 17 166,60 ; 12 831,60 ;10.08.2023;2023;Carretera;France
+Channel Partners;CUST_ID_088; 2 671,00 ; 31 731,48 ; 23 718,48 ;10.12.2024;2024;Carretera;Japan
+Government;CUST_ID_066; 1 397,00 ; 484 060,50 ; 120 840,50 ;03.08.2023;2023;Carretera;Canada
+Government;CUST_ID_021; 2 155,00 ; 746 707,50 ; 186 407,50 ;06.04.2023;2023;Carretera;Germany
+Midmarket;CUST_ID_112; 2 214,00 ; 32 877,90 ; 10 737,90 ;15.01.2023;2023;Montana;Japan
+Small Business;CUST_ID_012; 2 301,00 ; 683 397,00 ; 108 147,00 ;28.11.2023;2023;Montana;France
+Government;CUST_ID_059; 1 375,50 ; 27 234,90 ; 13 479,90 ;21.11.2024;2024;Montana;England
+Government;CUST_ID_043; 1 830,00 ; 12 681,90 ; 3 531,90 ;07.08.2023;2023;Montana;England
+Midmarket;CUST_ID_026; 1 514,00 ; 22 482,90 ; 7 342,90 ;07.09.2024;2024;Paseo;Canada
+Government;CUST_ID_027; 4 492,50 ; 31 133,03 ; 8 670,53 ;17.02.2023;2023;Paseo;England
+Enterprise;CUST_ID_115; 727,00 ; 89 966,25 ; 2 726,25 ;05.03.2024;2024;Paseo;England
+Enterprise;CUST_ID_051; 787,00 ; 97 391,25 ; 2 951,25 ;24.06.2023;2023;Paseo;England
+Enterprise;CUST_ID_024; 1 823,00 ; 225 596,25 ; 6 836,25 ;30.11.2024;2024;Paseo;Japan
+Midmarket;CUST_ID_038; 747,00 ; 11 092,95 ; 3 622,95 ;08.06.2023;2023;Paseo;Italy
+Small Business;CUST_ID_116; 2 905,00 ; 862 785,00 ; 136 535,00 ;17.01.2024;2024;Paseo;France
+Government;CUST_ID_052; 2 155,00 ; 746 707,50 ; 186 407,50 ;04.08.2024;2024;Paseo;France
+Government;CUST_ID_054; 3 864,00 ; 76 507,20 ; 37 867,20 ;13.10.2023;2023;Velo;Italy
+Government;CUST_ID_031; 362,00 ; 2 508,66 ; 698,66 ;01.11.2024;2024;Velo;India
+Enterprise;CUST_ID_007; 923,00 ; 114 221,25 ; 3 461,25 ;04.04.2024;2024;Velo;India
+Government;CUST_ID_056; 263,00 ; 1 822,59 ; 507,59 ;22.12.2024;2024;VTT;Japan
+Government;CUST_ID_055; 943,50 ; 326 922,75 ; 81 612,75 ;21.09.2023;2023;VTT;India
+Enterprise;CUST_ID_117; 727,00 ; 89 966,25 ; 2 726,25 ;30.04.2023;2023;VTT;Germany
+Enterprise;CUST_ID_118; 787,00 ; 97 391,25 ; 2 951,25 ;27.05.2023;2023;VTT;Italy
+Small Business;CUST_ID_032; 986,00 ; 292 842,00 ; 46 342,00 ;09.10.2024;2024;VTT;Japan
+Government;CUST_ID_034; 1 397,00 ; 484 060,50 ; 120 840,50 ;09.10.2024;2024;VTT;Canada
+Enterprise;CUST_ID_118; 1 744,00 ; 215 820,00 ; 6 540,00 ;21.09.2023;2023;VTT;Italy
+Enterprise;CUST_ID_094; 742,50 ; 90 956,25 ; 1 856,25 ;27.05.2024;2024;Carretera;Italy
+Channel Partners;CUST_ID_036; 1 295,00 ; 15 229,20 ; 11 344,20 ;03.05.2023;2023;Carretera;France
+Government;CUST_ID_042; 2 852,00 ; 978 236,00 ; 236 716,00 ;20.07.2023;2023;Carretera;Canada
+Channel Partners;CUST_ID_119; 1 142,00 ; 13 429,92 ; 10 003,92 ;10.11.2024;2024;Montana;India
+Government;CUST_ID_099; 1 566,00 ; 30 693,60 ; 15 033,60 ;17.07.2023;2023;Montana;England
+Channel Partners;CUST_ID_120; 690,00 ; 8 114,40 ; 6 044,40 ;26.07.2024;2024;Montana;Japan
+Midmarket;CUST_ID_006; 2 363,00 ; 34 736,10 ; 11 106,10 ;24.10.2024;2024;Paseo;Italy
+Small Business;CUST_ID_121; 918,00 ; 269 892,00 ; 40 392,00 ;02.06.2023;2023;Paseo;USA
+Small Business;CUST_ID_069; 1 728,00 ; 508 032,00 ; 76 032,00 ;29.07.2023;2023;Paseo;Germany
+Channel Partners;CUST_ID_005; 1 142,00 ; 13 429,92 ; 10 003,92 ;20.05.2023;2023;Paseo;Germany
+Enterprise;CUST_ID_024; 662,00 ; 81 095,00 ; 1 655,00 ;01.05.2023;2023;Paseo;Japan
+Channel Partners;CUST_ID_060; 1 295,00 ; 15 229,20 ; 11 344,20 ;23.02.2023;2023;Paseo;France
+Small Business;CUST_ID_070; 1 916,00 ; 563 304,00 ; 84 304,00 ;16.12.2023;2023;Paseo;Italy
+Government;CUST_ID_004; 2 852,00 ; 978 236,00 ; 236 716,00 ;19.04.2023;2023;Paseo;France
+Enterprise;CUST_ID_122; 2 729,00 ; 334 302,50 ; 6 822,50 ;04.12.2023;2023;Paseo;Canada
+Channel Partners;CUST_ID_025; 1 055,00 ; 12 406,80 ; 9 241,80 ;06.02.2023;2023;Paseo;USA
+Channel Partners;CUST_ID_071; 1 084,00 ; 12 747,84 ; 9 495,84 ;19.04.2024;2024;Paseo;India
+Government;CUST_ID_041; 1 566,00 ; 30 693,60 ; 15 033,60 ;28.08.2024;2024;Velo;USA
+Government;CUST_ID_028; 2 877,00 ; 986 811,00 ; 238 791,00 ;17.09.2024;2024;Velo;France
+Channel Partners;CUST_ID_123; 1 055,00 ; 12 406,80 ; 9 241,80 ;14.12.2023;2023;Velo;England
+Channel Partners;CUST_ID_124; 1 084,00 ; 12 747,84 ; 9 495,84 ;09.04.2024;2024;Velo;France
+Enterprise;CUST_ID_125; 662,00 ; 81 095,00 ; 1 655,00 ;06.12.2024;2024;VTT;Germany
+Government;CUST_ID_056; 2 877,00 ; 986 811,00 ; 238 791,00 ;16.11.2024;2024;VTT;Japan
+Enterprise;CUST_ID_105; 2 729,00 ; 334 302,50 ; 6 822,50 ;13.12.2024;2024;VTT;USA
+Small Business;CUST_ID_126; 259,00 ; 76 146,00 ; 11 396,00 ;26.02.2024;2024;Amarilla;Italy
+Small Business;CUST_ID_127; 1 101,00 ; 323 694,00 ; 48 444,00 ;25.09.2024;2024;Amarilla;India
+Enterprise;CUST_ID_073; 2 276,00 ; 278 810,00 ; 5 690,00 ;23.09.2024;2024;Amarilla;USA
+Government;CUST_ID_064; 1 236,00 ; 24 225,60 ; 11 865,60 ;03.02.2023;2023;Amarilla;Japan
+Government;CUST_ID_065; 941,00 ; 18 443,60 ; 9 033,60 ;19.11.2024;2024;Amarilla;USA
+Small Business;CUST_ID_128; 1 916,00 ; 563 304,00 ; 84 304,00 ;30.05.2024;2024;Amarilla;Japan
+Enterprise;CUST_ID_085; 4 243,50 ; 514 524,38 ; 5 304,38 ;28.04.2023;2023;Carretera;Germany
+Government;CUST_ID_048; 2 580,00 ; 50 052,00 ; 24 252,00 ;09.04.2024;2024;Carretera;Japan
+Small Business;CUST_ID_020; 689,00 ; 200 499,00 ; 28 249,00 ;23.10.2024;2024;Carretera;France
+Channel Partners;CUST_ID_084; 1 947,00 ; 22 663,08 ; 16 822,08 ;23.04.2024;2024;Carretera;France
+Government;CUST_ID_037; 1 958,00 ; 13 294,82 ; 3 504,82 ;26.05.2024;2024;Montana;Germany
+Channel Partners;CUST_ID_129; 1 901,00 ; 22 127,64 ; 16 424,64 ;13.03.2024;2024;Montana;USA
+Government;CUST_ID_059; 544,00 ; 3 693,76 ; 973,76 ;23.07.2023;2023;Montana;England
+Enterprise;CUST_ID_079; 1 287,00 ; 156 048,75 ; 1 608,75 ;27.09.2023;2023;Montana;India
+Enterprise;CUST_ID_068; 1 706,00 ; 206 852,50 ; 2 132,50 ;15.05.2023;2023;Montana;France
+Small Business;CUST_ID_121; 2 434,50 ; 708 439,50 ; 99 814,50 ;25.05.2024;2024;Paseo;USA
+Enterprise;CUST_ID_122; 1 774,00 ; 215 097,50 ; 2 217,50 ;03.10.2024;2024;Paseo;Canada
+Channel Partners;CUST_ID_025; 1 901,00 ; 22 127,64 ; 16 424,64 ;14.01.2023;2023;Paseo;USA
+Small Business;CUST_ID_069; 689,00 ; 200 499,00 ; 28 249,00 ;14.12.2023;2023;Paseo;Germany
+Enterprise;CUST_ID_023; 1 570,00 ; 190 362,50 ; 1 962,50 ;14.06.2024;2024;Paseo;India
+Channel Partners;CUST_ID_005; 1 369,50 ; 15 940,98 ; 11 832,48 ;06.06.2023;2023;Paseo;Germany
+Enterprise;CUST_ID_122; 2 009,00 ; 243 591,25 ; 2 511,25 ;07.01.2023;2023;Paseo;Canada
+Enterprise;CUST_ID_051; 1 287,00 ; 156 048,75 ; 1 608,75 ;31.05.2023;2023;Paseo;England
+Enterprise;CUST_ID_023; 1 706,00 ; 206 852,50 ; 2 132,50 ;17.07.2024;2024;Paseo;India
+Enterprise;CUST_ID_007; 2 009,00 ; 243 591,25 ; 2 511,25 ;11.02.2024;2024;Velo;India
+Small Business;CUST_ID_075; 2 844,00 ; 827 604,00 ; 116 604,00 ;24.04.2024;2024;VTT;England
+Channel Partners;CUST_ID_089; 1 916,00 ; 22 302,24 ; 16 554,24 ;23.09.2023;2023;VTT;USA
+Enterprise;CUST_ID_130; 1 570,00 ; 190 362,50 ; 1 962,50 ;08.03.2023;2023;VTT;Canada
+Small Business;CUST_ID_063; 1 874,00 ; 545 334,00 ; 76 834,00 ;11.04.2023;2023;VTT;India
+Government;CUST_ID_034; 1 642,00 ; 557 459,00 ; 130 539,00 ;21.12.2023;2023;VTT;Canada
+Government;CUST_ID_042; 831,00 ; 16 121,40 ; 7 811,40 ;20.12.2023;2023;Carretera;Canada
+Government;CUST_ID_016; 3 850,50 ; 74 699,70 ; 36 194,70 ;02.12.2023;2023;Velo;Japan
+Channel Partners;CUST_ID_067; 2 479,00 ; 28 855,56 ; 21 418,56 ;14.12.2024;2024;VTT;England
+Midmarket;CUST_ID_112; 2 031,00 ; 29 246,40 ; 8 936,40 ;21.04.2024;2024;Montana;Japan
+Midmarket;CUST_ID_044; 2 031,00 ; 29 246,40 ; 8 936,40 ;23.12.2024;2024;Paseo;France
+Small Business;CUST_ID_020; 2 021,00 ; 582 048,00 ; 76 798,00 ;06.09.2023;2023;Carretera;France
+Government;CUST_ID_057; 274,00 ; 92 064,00 ; 20 824,00 ;09.06.2024;2024;Carretera;USA
+Midmarket;CUST_ID_131; 1 967,00 ; 28 324,80 ; 8 654,80 ;28.11.2024;2024;Montana;England
+Small Business;CUST_ID_080; 1 859,00 ; 535 392,00 ; 70 642,00 ;20.05.2024;2024;Montana;Japan
+Small Business;CUST_ID_080; 2 021,00 ; 582 048,00 ; 76 798,00 ;06.06.2024;2024;Montana;Japan
+Enterprise;CUST_ID_022; 1 138,00 ; 136 560,00 ; -   ;04.11.2024;2024;Montana;Italy
+Government;CUST_ID_004; 4 251,00 ; 28 566,72 ; 7 311,72 ;05.05.2023;2023;Paseo;France
+Enterprise;CUST_ID_023; 795,00 ; 95 400,00 ; -   ;09.11.2024;2024;Paseo;India
+Small Business;CUST_ID_069; 1 414,50 ; 407 376,00 ; 53 751,00 ;24.02.2023;2023;Paseo;Germany
+Small Business;CUST_ID_116; 2 918,00 ; 840 384,00 ; 110 884,00 ;31.08.2023;2023;Paseo;France
+Government;CUST_ID_027; 3 450,00 ; 1 159 200,00 ; 262 200,00 ;27.07.2024;2024;Paseo;England
+Enterprise;CUST_ID_051; 2 988,00 ; 358 560,00 ; -   ;29.01.2024;2024;Paseo;England
+Midmarket;CUST_ID_006; 218,00 ; 3 139,20 ; 959,20 ;05.04.2024;2024;Paseo;Italy
+Government;CUST_ID_004; 2 074,00 ; 39 820,80 ; 19 080,80 ;30.12.2024;2024;Paseo;France
+Government;CUST_ID_027; 1 056,00 ; 20 275,20 ; 9 715,20 ;16.03.2024;2024;Paseo;England
+Government;CUST_ID_027; 274,00 ; 92 064,00 ; 20 824,00 ;16.11.2023;2023;Paseo;England
+Enterprise;CUST_ID_024; 1 138,00 ; 136 560,00 ; -   ;19.02.2023;2023;Paseo;Japan
+Channel Partners;CUST_ID_132; 1 465,00 ; 16 876,80 ; 12 481,80 ;26.12.2024;2024;Velo;France
+Government;CUST_ID_054; 2 177,00 ; 731 472,00 ; 165 452,00 ;18.05.2024;2024;Velo;Italy
+Channel Partners;CUST_ID_081; 866,00 ; 9 976,32 ; 7 378,32 ;30.06.2023;2023;VTT;USA
+Government;CUST_ID_008; 2 177,00 ; 731 472,00 ; 165 452,00 ;02.03.2023;2023;VTT;Japan
+Government;CUST_ID_093; 1 865,00 ; 626 640,00 ; 141 740,00 ;10.01.2023;2023;Amarilla;Germany
+Enterprise;CUST_ID_092; 1 074,00 ; 128 880,00 ; -   ;13.05.2024;2024;Amarilla;France
+Government;CUST_ID_035; 1 907,00 ; 640 752,00 ; 144 932,00 ;10.12.2023;2023;Amarilla;England
+Government;CUST_ID_072; 1 372,00 ; 9 123,80 ; 2 263,80 ;07.04.2024;2024;Paseo;Japan
+Government;CUST_ID_040; 2 689,00 ; 17 881,85 ; 4 436,85 ;03.02.2024;2024;Paseo;Japan
+Channel Partners;CUST_ID_060; 2 431,00 ; 27 713,40 ; 20 420,40 ;10.12.2024;2024;Paseo;France
+Channel Partners;CUST_ID_133; 2 431,00 ; 27 713,40 ; 20 420,40 ;08.11.2024;2024;Velo;Germany
+Government;CUST_ID_034; 2 689,00 ; 17 881,85 ; 4 436,85 ;14.07.2023;2023;VTT;Canada
+Government;CUST_ID_093; 1 683,00 ; 11 191,95 ; 2 776,95 ;16.01.2024;2024;Amarilla;Germany
+Channel Partners;CUST_ID_076; 1 123,00 ; 12 802,20 ; 9 433,20 ;01.01.2024;2024;Amarilla;France
+Channel Partners;CUST_ID_088; 1 865,00 ; 21 261,00 ; 15 666,00 ;13.01.2024;2024;Carretera;Japan
+Channel Partners;CUST_ID_010; 1 116,00 ; 12 722,40 ; 9 374,40 ;29.05.2023;2023;Carretera;Canada
+Government;CUST_ID_021; 1 563,00 ; 29 697,00 ; 14 067,00 ;09.08.2023;2023;Carretera;Germany
+Small Business;CUST_ID_134; 991,00 ; 282 435,00 ; 34 685,00 ;23.12.2024;2024;Carretera;Italy
+Midmarket;CUST_ID_108; 2 791,00 ; 39 771,75 ; 11 861,75 ;06.09.2023;2023;Carretera;France
+Government;CUST_ID_057; 570,00 ; 3 790,50 ; 940,50 ;05.04.2023;2023;Carretera;USA
+Government;CUST_ID_021; 2 487,00 ; 16 538,55 ; 4 103,55 ;08.08.2024;2024;Carretera;Germany
+Government;CUST_ID_059; 1 384,50 ; 460 346,25 ; 100 376,25 ;24.06.2023;2023;Montana;England
+Enterprise;CUST_ID_013; 3 627,00 ; 430 706,25 ; -4 533,75 ;06.06.2023;2023;Montana;Germany
+Channel Partners;CUST_ID_111; 2 342,00 ; 26 698,80 ; 19 672,80 ;24.08.2023;2023;Montana;India
+Government;CUST_ID_052; 1 303,00 ; 24 757,00 ; 11 727,00 ;23.11.2024;2024;Paseo;France
+Enterprise;CUST_ID_115; 2 992,00 ; 355 300,00 ; -3 740,00 ;16.05.2024;2024;Paseo;England
+Enterprise;CUST_ID_051; 2 385,00 ; 283 218,75 ; -2 981,25 ;13.01.2023;2023;Paseo;England
+Small Business;CUST_ID_003; 1 607,00 ; 457 995,00 ; 56 245,00 ;03.03.2023;2023;Paseo;England
+Government;CUST_ID_027; 2 327,00 ; 15 474,55 ; 3 839,55 ;25.03.2024;2024;Paseo;England
+Small Business;CUST_ID_116; 991,00 ; 282 435,00 ; 34 685,00 ;07.10.2023;2023;Paseo;France
+Government;CUST_ID_027; 602,00 ; 200 165,00 ; 43 645,00 ;21.11.2024;2024;Paseo;England
+Midmarket;CUST_ID_002; 2 620,00 ; 37 335,00 ; 11 135,00 ;31.01.2023;2023;Paseo;Canada
+Enterprise;CUST_ID_115; 861,00 ; 102 243,75 ; -1 076,25 ;17.07.2023;2023;Paseo;England
+Government;CUST_ID_027; 2 663,00 ; 50 597,00 ; 23 967,00 ;20.01.2023;2023;Paseo;England
+Midmarket;CUST_ID_135; 555,00 ; 7 908,75 ; 2 358,75 ;03.10.2023;2023;Velo;India
+Midmarket;CUST_ID_091; 2 861,00 ; 40 769,25 ; 12 159,25 ;20.07.2024;2024;Velo;England
+Enterprise;CUST_ID_029; 807,00 ; 95 831,25 ; -1 008,75 ;07.10.2024;2024;Velo;Germany
+Government;CUST_ID_041; 602,00 ; 200 165,00 ; 43 645,00 ;23.01.2024;2024;Velo;USA
+Government;CUST_ID_041; 2 832,00 ; 53 808,00 ; 25 488,00 ;10.12.2023;2023;Velo;USA
+Government;CUST_ID_054; 1 579,00 ; 30 001,00 ; 14 211,00 ;13.11.2024;2024;Velo;Italy
+Enterprise;CUST_ID_015; 861,00 ; 102 243,75 ; -1 076,25 ;27.04.2024;2024;Velo;India
+Small Business;CUST_ID_102; 1 250,00 ; 356 250,00 ; 43 750,00 ;25.05.2024;2024;Velo;Italy
+Government;CUST_ID_033; 2 663,00 ; 50 597,00 ; 23 967,00 ;16.08.2024;2024;VTT;USA
+Government;CUST_ID_033; 570,00 ; 3 790,50 ; 940,50 ;24.10.2024;2024;VTT;USA
+Government;CUST_ID_008; 2 487,00 ; 16 538,55 ; 4 103,55 ;27.03.2024;2024;VTT;Japan
+Government;CUST_ID_035; 1 350,00 ; 448 875,00 ; 97 875,00 ;18.12.2024;2024;Amarilla;England
+Government;CUST_ID_047; 552,00 ; 183 540,00 ; 40 020,00 ;29.08.2023;2023;Amarilla;India
+Small Business;CUST_ID_126; 1 250,00 ; 356 250,00 ; 43 750,00 ;15.08.2024;2024;Amarilla;Italy
+Midmarket;CUST_ID_002; 3 801,00 ; 53 594,10 ; 15 584,10 ;19.03.2024;2024;Paseo;Canada
+Government;CUST_ID_057; 1 117,50 ; 21 009,00 ; 9 834,00 ;12.06.2023;2023;Carretera;USA
+Midmarket;CUST_ID_090; 2 844,00 ; 40 100,40 ; 11 660,40 ;27.07.2023;2023;Carretera;Canada
+Channel Partners;CUST_ID_077; 562,00 ; 6 339,36 ; 4 653,36 ;23.11.2023;2023;Carretera;Germany
+Midmarket;CUST_ID_136; 2 030,00 ; 28 623,00 ; 8 323,00 ;26.07.2023;2023;Carretera;Japan
+Government;CUST_ID_049; 980,00 ; 322 420,00 ; 67 620,00 ;15.07.2024;2024;Montana;USA
+Government;CUST_ID_037; 1 460,00 ; 480 340,00 ; 100 740,00 ;17.05.2024;2024;Montana;Germany
+Channel Partners;CUST_ID_119; 2 723,00 ; 30 715,44 ; 22 546,44 ;20.11.2024;2024;Montana;India
+Government;CUST_ID_052; 1 496,00 ; 492 184,00 ; 103 224,00 ;01.03.2023;2023;Paseo;France
+Enterprise;CUST_ID_007; 952,00 ; 111 860,00 ; -2 380,00 ;11.11.2024;2024;Velo;India
+Enterprise;CUST_ID_015; 2 755,00 ; 323 712,50 ; -6 887,50 ;17.08.2023;2023;Velo;India
+Midmarket;CUST_ID_096; 1 530,00 ; 21 573,00 ; 6 273,00 ;24.08.2024;2024;Velo;Japan
+Government;CUST_ID_054; 1 496,00 ; 492 184,00 ; 103 224,00 ;14.05.2023;2023;Velo;Italy
+Government;CUST_ID_031; 1 498,00 ; 9 856,84 ; 2 366,84 ;11.01.2024;2024;Velo;India
+Midmarket;CUST_ID_137; 2 844,00 ; 40 100,40 ; 11 660,40 ;21.11.2023;2023;VTT;USA
+Government;CUST_ID_034; 1 498,00 ; 9 856,84 ; 2 366,84 ;15.03.2023;2023;VTT;Canada
+Enterprise;CUST_ID_138; 1 987,50 ; 233 531,25 ; -4 968,75 ;28.06.2024;2024;Amarilla;Canada
+Government;CUST_ID_093; 1 679,00 ; 552 391,00 ; 115 851,00 ;18.11.2023;2023;Amarilla;Germany
+Midmarket;CUST_ID_026; 2 198,00 ; 30 991,80 ; 9 011,80 ;20.10.2024;2024;Paseo;Canada
+Midmarket;CUST_ID_038; 1 743,00 ; 24 576,30 ; 7 146,30 ;16.03.2024;2024;Paseo;Italy
+Midmarket;CUST_ID_026; 1 153,00 ; 16 257,30 ; 4 727,30 ;18.11.2023;2023;Paseo;Canada
+Government;CUST_ID_028; 1 001,00 ; 18 818,80 ; 8 808,80 ;30.11.2024;2024;Velo;France
+Government;CUST_ID_031; 1 333,00 ; 8 771,14 ; 2 106,14 ;17.06.2023;2023;Velo;India
+Midmarket;CUST_ID_139; 1 153,00 ; 16 257,30 ; 4 727,30 ;13.10.2024;2024;VTT;England
+Channel Partners;CUST_ID_077; 727,00 ; 8 113,32 ; 5 932,32 ;20.08.2024;2024;Carretera;Germany
+Channel Partners;CUST_ID_036; 1 884,00 ; 21 025,44 ; 15 373,44 ;24.04.2023;2023;Carretera;France
+Channel Partners;CUST_ID_120; 2 340,00 ; 26 114,40 ; 19 094,40 ;08.03.2024;2024;Montana;Japan
+Channel Partners;CUST_ID_129; 2 342,00 ; 26 136,72 ; 19 110,72 ;25.08.2023;2023;Montana;USA
+Midmarket;CUST_ID_140; 1 262,00 ; 17 604,90 ; 4 984,90 ;18.04.2023;2023;Velo;France
+Government;CUST_ID_016; 1 135,00 ; 7 388,85 ; 1 713,85 ;08.05.2023;2023;Velo;Japan
+Government;CUST_ID_041; 547,00 ; 3 560,97 ; 825,97 ;04.08.2024;2024;Velo;USA
+Government;CUST_ID_016; 1 582,00 ; 10 298,82 ; 2 388,82 ;05.04.2023;2023;Velo;Japan
+Channel Partners;CUST_ID_081; 1 738,50 ; 19 401,66 ; 14 186,16 ;25.02.2024;2024;VTT;USA
+Government;CUST_ID_055; 1 582,00 ; 10 298,82 ; 2 388,82 ;01.01.2024;2024;VTT;India
+Government;CUST_ID_047; 1 135,00 ; 7 388,85 ; 1 713,85 ;04.06.2023;2023;Amarilla;India
+Government;CUST_ID_057; 1 761,00 ; 573 205,50 ; 115 345,50 ;03.05.2024;2024;Carretera;USA
+Small Business;CUST_ID_141; 448,00 ; 124 992,00 ; 12 992,00 ;14.08.2024;2024;Carretera;Germany
+Small Business;CUST_ID_141; 2 181,00 ; 608 499,00 ; 63 249,00 ;24.07.2023;2023;Carretera;Germany
+Government;CUST_ID_059; 1 976,00 ; 36 753,60 ; 16 993,60 ;24.09.2023;2023;Montana;England
+Small Business;CUST_ID_078; 2 181,00 ; 608 499,00 ; 63 249,00 ;26.07.2024;2024;Montana;Italy
+Small Business;CUST_ID_070; 1 702,00 ; 474 858,00 ; 49 358,00 ;17.05.2024;2024;Paseo;Italy
+Small Business;CUST_ID_121; 448,00 ; 124 992,00 ; 12 992,00 ;04.06.2024;2024;Paseo;USA
+Enterprise;CUST_ID_023; 3 513,00 ; 408 386,25 ; -13 173,75 ;09.10.2023;2023;Paseo;India
+Midmarket;CUST_ID_002; 2 101,00 ; 29 308,95 ; 8 298,95 ;28.04.2023;2023;Paseo;Canada
+Government;CUST_ID_052; 1 535,00 ; 28 551,00 ; 13 201,00 ;06.03.2023;2023;Paseo;France
+Small Business;CUST_ID_061; 1 659,00 ; 462 861,00 ; 48 111,00 ;06.11.2024;2024;Velo;Germany
+Government;CUST_ID_031; 609,00 ; 11 327,40 ; 5 237,40 ;20.12.2023;2023;Velo;India
+Enterprise;CUST_ID_029; 2 087,00 ; 242 613,75 ; -7 826,25 ;12.04.2023;2023;Velo;Germany
+Government;CUST_ID_054; 1 976,00 ; 36 753,60 ; 16 993,60 ;03.08.2024;2024;Velo;Italy
+Small Business;CUST_ID_086; 1 372,00 ; 382 788,00 ; 39 788,00 ;29.07.2023;2023;Velo;Italy
+Channel Partners;CUST_ID_142; 3 244,50 ; 36 208,62 ; 26 475,12 ;24.09.2024;2024;VTT;Italy
+Small Business;CUST_ID_062; 959,00 ; 267 561,00 ; 27 811,00 ;14.04.2024;2024;VTT;Italy
+Small Business;CUST_ID_017; 2 747,00 ; 766 413,00 ; 79 663,00 ;10.04.2023;2023;VTT;USA
+Enterprise;CUST_ID_143; 1 645,00 ; 191 231,25 ; -6 168,75 ;03.06.2024;2024;Amarilla;India
+Government;CUST_ID_065; 2 876,00 ; 936 138,00 ; 188 378,00 ;30.06.2024;2024;Amarilla;USA
+Government;CUST_ID_047; 1 118,00 ; 20 794,80 ; 9 614,80 ;04.12.2023;2023;Amarilla;India
+Small Business;CUST_ID_144; 1 372,00 ; 382 788,00 ; 39 788,00 ;20.09.2024;2024;Amarilla;Japan
+Government;CUST_ID_043; 488,00 ; 3 142,72 ; 702,72 ;20.10.2024;2024;Montana;England
+Government;CUST_ID_099; 1 282,00 ; 23 588,80 ; 10 768,80 ;12.10.2023;2023;Montana;England
+Government;CUST_ID_004; 257,00 ; 1 655,08 ; 370,08 ;21.10.2023;2023;Paseo;France
+Government;CUST_ID_064; 1 282,00 ; 23 588,80 ; 10 768,80 ;02.10.2023;2023;Amarilla;Japan
+Enterprise;CUST_ID_100; 1 540,00 ; 177 100,00 ; -7 700,00 ;31.05.2023;2023;Carretera;France
+Midmarket;CUST_ID_106; 490,00 ; 6 762,00 ; 1 862,00 ;06.01.2024;2024;Carretera;Canada
+Government;CUST_ID_066; 1 362,00 ; 438 564,00 ; 84 444,00 ;26.01.2023;2023;Carretera;Canada
+Midmarket;CUST_ID_145; 2 501,00 ; 34 513,80 ; 9 503,80 ;03.01.2024;2024;Montana;USA
+Government;CUST_ID_043; 708,00 ; 13 027,20 ; 5 947,20 ;27.11.2023;2023;Montana;England
+Government;CUST_ID_037; 645,00 ; 11 868,00 ; 5 418,00 ;15.08.2024;2024;Montana;Germany
+Small Business;CUST_ID_078; 1 562,00 ; 431 112,00 ; 40 612,00 ;11.07.2024;2024;Montana;Italy
+Midmarket;CUST_ID_109; 711,00 ; 9 811,80 ; 2 701,80 ;22.06.2024;2024;Montana;Germany
+Enterprise;CUST_ID_024; 1 114,00 ; 128 110,00 ; -5 570,00 ;09.11.2024;2024;Paseo;Japan
+Government;CUST_ID_072; 1 259,00 ; 8 107,96 ; 1 812,96 ;12.07.2024;2024;Paseo;Japan
+Government;CUST_ID_072; 1 095,00 ; 7 051,80 ; 1 576,80 ;28.09.2023;2023;Paseo;Japan
+Government;CUST_ID_072; 1 366,00 ; 25 134,40 ; 11 474,40 ;04.03.2023;2023;Paseo;Japan
+Small Business;CUST_ID_003; 2 460,00 ; 678 960,00 ; 63 960,00 ;27.07.2023;2023;Paseo;England
+Government;CUST_ID_027; 678,00 ; 4 366,32 ; 976,32 ;21.03.2023;2023;Paseo;England
+Government;CUST_ID_072; 1 598,00 ; 10 291,12 ; 2 301,12 ;06.11.2023;2023;Paseo;Japan
+Government;CUST_ID_072; 1 934,00 ; 35 585,60 ; 16 245,60 ;02.02.2023;2023;Paseo;Japan
+Government;CUST_ID_040; 2 993,00 ; 55 071,20 ; 25 141,20 ;12.01.2023;2023;Paseo;Japan
+Government;CUST_ID_040; 1 362,00 ; 438 564,00 ; 84 444,00 ;12.09.2024;2024;Paseo;Japan
+Channel Partners;CUST_ID_133; 598,00 ; 6 601,92 ; 4 807,92 ;04.05.2023;2023;Velo;Germany
+Government;CUST_ID_041; 2 907,00 ; 18 721,08 ; 4 186,08 ;17.08.2024;2024;Velo;USA
+Government;CUST_ID_028; 2 338,00 ; 15 056,72 ; 3 366,72 ;05.07.2023;2023;Velo;France
+Small Business;CUST_ID_097; 635,00 ; 175 260,00 ; 16 510,00 ;11.08.2023;2023;Velo;USA
+Government;CUST_ID_008; 574,50 ; 184 989,00 ; 35 619,00 ;22.02.2024;2024;VTT;Japan
+Government;CUST_ID_056; 2 338,00 ; 15 056,72 ; 3 366,72 ;13.10.2024;2024;VTT;Japan
+Government;CUST_ID_008; 381,00 ; 122 682,00 ; 23 622,00 ;20.03.2024;2024;VTT;Japan
+Government;CUST_ID_056; 422,00 ; 135 884,00 ; 26 164,00 ;06.08.2024;2024;VTT;Japan
+Small Business;CUST_ID_063; 2 134,00 ; 588 984,00 ; 55 484,00 ;20.03.2024;2024;VTT;India
+Government;CUST_ID_047; 708,00 ; 13 027,20 ; 5 947,20 ;19.04.2023;2023;Amarilla;India
+Government;CUST_ID_064; 2 907,00 ; 18 721,08 ; 4 186,08 ;25.04.2024;2024;Amarilla;Japan
+Government;CUST_ID_035; 1 366,00 ; 25 134,40 ; 11 474,40 ;08.10.2024;2024;Amarilla;England
+Small Business;CUST_ID_127; 2 460,00 ; 678 960,00 ; 63 960,00 ;15.06.2024;2024;Amarilla;India
+Government;CUST_ID_035; 1 520,00 ; 27 968,00 ; 12 768,00 ;10.10.2024;2024;Amarilla;England
+Midmarket;CUST_ID_082; 711,00 ; 9 811,80 ; 2 701,80 ;27.07.2024;2024;Amarilla;Canada
+Small Business;CUST_ID_127; 635,00 ; 175 260,00 ; 16 510,00 ;27.06.2024;2024;Amarilla;India
+Government;CUST_ID_033; 436,50 ; 8 031,60 ; 3 666,60 ;12.05.2024;2024;VTT;USA
+Small Business;CUST_ID_146; 1 094,00 ; 298 662,00 ; 25 162,00 ;20.12.2024;2024;Carretera;Canada
+Small Business;CUST_ID_074; 3 802,50 ; 1 038 082,50 ; 87 457,50 ;06.12.2024;2024;Montana;Canada
+Government;CUST_ID_059; 1 666,00 ; 530 621,00 ; 97 461,00 ;01.09.2023;2023;Montana;England
+Channel Partners;CUST_ID_110; 2 321,00 ; 25 345,32 ; 18 382,32 ;21.06.2023;2023;Montana;Italy
+Enterprise;CUST_ID_013; 2 797,00 ; 318 158,75 ; -17 481,25 ;24.10.2023;2023;Montana;Germany
+Small Business;CUST_ID_003; 2 565,00 ; 700 245,00 ; 58 995,00 ;29.07.2023;2023;Paseo;England
+Government;CUST_ID_040; 2 417,00 ; 769 814,50 ; 141 394,50 ;24.04.2024;2024;Paseo;Japan
+Midmarket;CUST_ID_026; 3 675,00 ; 50 163,75 ; 13 413,75 ;28.10.2023;2023;Paseo;Canada
+Small Business;CUST_ID_070; 1 094,00 ; 298 662,00 ; 25 162,00 ;01.07.2023;2023;Paseo;Italy
+Midmarket;CUST_ID_002; 1 227,00 ; 16 748,55 ; 4 478,55 ;21.10.2023;2023;Paseo;Canada
+Small Business;CUST_ID_121; 1 324,00 ; 361 452,00 ; 30 452,00 ;04.06.2023;2023;Paseo;USA
+Enterprise;CUST_ID_115; 2 797,00 ; 318 158,75 ; -17 481,25 ;26.07.2023;2023;Paseo;England
+Midmarket;CUST_ID_091; 245,00 ; 3 344,25 ; 894,25 ;29.12.2024;2024;Velo;England
+Small Business;CUST_ID_101; 3 793,50 ; 1 035 625,50 ; 87 250,50 ;07.05.2024;2024;Velo;Germany
+Government;CUST_ID_028; 1 307,00 ; 416 279,50 ; 76 459,50 ;21.02.2023;2023;Velo;France
+Enterprise;CUST_ID_007; 567,00 ; 64 496,25 ; -3 543,75 ;24.11.2023;2023;Velo;India
+Enterprise;CUST_ID_030; 2 110,00 ; 240 012,50 ; -13 187,50 ;22.01.2023;2023;Velo;Italy
+Government;CUST_ID_016; 1 269,00 ; 404 176,50 ; 74 236,50 ;01.06.2024;2024;Velo;Japan
+Channel Partners;CUST_ID_147; 1 956,00 ; 21 359,52 ; 15 491,52 ;22.11.2023;2023;VTT;England
+Small Business;CUST_ID_032; 2 659,00 ; 725 907,00 ; 61 157,00 ;26.12.2024;2024;VTT;Japan
+Government;CUST_ID_033; 1 351,50 ; 430 452,75 ; 79 062,75 ;21.11.2024;2024;VTT;USA
+Channel Partners;CUST_ID_067; 880,00 ; 9 609,60 ; 6 969,60 ;07.11.2023;2023;VTT;England
+Small Business;CUST_ID_075; 1 867,00 ; 509 691,00 ; 42 941,00 ;24.01.2023;2023;VTT;England
+Midmarket;CUST_ID_087; 1 227,00 ; 16 748,55 ; 4 478,55 ;25.10.2024;2024;VTT;India
+Enterprise;CUST_ID_125; 877,00 ; 99 758,75 ; -5 481,25 ;25.10.2024;2024;VTT;Germany
+Government;CUST_ID_064; 2 071,00 ; 659 613,50 ; 121 153,50 ;18.08.2024;2024;Amarilla;Japan
+Government;CUST_ID_047; 1 269,00 ; 404 176,50 ; 74 236,50 ;06.04.2023;2023;Amarilla;India
+Government;CUST_ID_093; 1 694,00 ; 30 830,80 ; 13 890,80 ;18.04.2023;2023;Amarilla;Germany
+Government;CUST_ID_048; 663,00 ; 12 066,60 ; 5 436,60 ;29.10.2023;2023;Carretera;Japan
+Government;CUST_ID_042; 819,00 ; 5 217,03 ; 1 122,03 ;13.09.2023;2023;Carretera;Canada
+Channel Partners;CUST_ID_010; 1 580,00 ; 17 253,60 ; 12 513,60 ;21.01.2024;2024;Carretera;Canada
+Government;CUST_ID_066; 521,00 ; 3 318,77 ; 713,77 ;26.10.2023;2023;Carretera;Canada
+Government;CUST_ID_027; 973,00 ; 17 708,60 ; 7 978,60 ;06.01.2023;2023;Paseo;England
+Government;CUST_ID_040; 1 038,00 ; 18 891,60 ; 8 511,60 ;05.08.2024;2024;Paseo;Japan
+Government;CUST_ID_072; 360,00 ; 2 293,20 ; 493,20 ;15.05.2023;2023;Paseo;Japan
+Channel Partners;CUST_ID_123; 1 967,00 ; 21 479,64 ; 15 578,64 ;02.03.2023;2023;Velo;England
+Midmarket;CUST_ID_091; 2 628,00 ; 35 872,20 ; 9 592,20 ;21.12.2023;2023;Velo;England
+Government;CUST_ID_056; 360,00 ; 2 293,20 ; 493,20 ;04.12.2024;2024;VTT;Japan
+Government;CUST_ID_034; 521,00 ; 3 318,77 ; 713,77 ;13.02.2024;2024;VTT;Canada
+Government;CUST_ID_093; 1 038,00 ; 18 891,60 ; 8 511,60 ;25.06.2024;2024;Amarilla;Germany
+Midmarket;CUST_ID_103; 1 630,50 ; 22 256,33 ; 5 951,33 ;09.05.2023;2023;Amarilla;India
+Government;CUST_ID_099; 2 328,00 ; 14 666,40 ; 3 026,40 ;22.10.2023;2023;Montana;England
+Enterprise;CUST_ID_009; 3 445,50 ; 387 618,75 ; -25 841,25 ;25.10.2023;2023;Carretera;USA
+Government;CUST_ID_099; 2 313,00 ; 728 595,00 ; 127 215,00 ;07.06.2024;2024;Montana;England
+Midmarket;CUST_ID_145; 2 072,00 ; 27 972,00 ; 7 252,00 ;23.04.2023;2023;Montana;USA
+Government;CUST_ID_052; 1 954,00 ; 35 172,00 ; 15 632,00 ;16.01.2023;2023;Paseo;France
+Small Business;CUST_ID_003; 591,00 ; 159 570,00 ; 11 820,00 ;22.04.2024;2024;Paseo;England
+Government;CUST_ID_072; 241,00 ; 4 338,00 ; 1 928,00 ;24.10.2024;2024;Paseo;Japan
+Midmarket;CUST_ID_096; 681,00 ; 9 193,50 ; 2 383,50 ;19.05.2023;2023;Velo;Japan
+Midmarket;CUST_ID_096; 510,00 ; 6 885,00 ; 1 785,00 ;05.02.2024;2024;Velo;Japan
+Midmarket;CUST_ID_135; 790,00 ; 10 665,00 ; 2 765,00 ;07.12.2023;2023;Velo;India
+Government;CUST_ID_054; 639,00 ; 201 285,00 ; 35 145,00 ;14.06.2023;2023;Velo;Italy
+Enterprise;CUST_ID_015; 1 596,00 ; 179 550,00 ; -11 970,00 ;10.05.2024;2024;Velo;India
+Government;CUST_ID_028; 241,00 ; 4 338,00 ; 1 928,00 ;21.06.2024;2024;Velo;France
+Government;CUST_ID_028; 2 665,00 ; 16 789,50 ; 3 464,50 ;07.10.2024;2024;Velo;France
+Small Business;CUST_ID_061; 853,00 ; 230 310,00 ; 17 060,00 ;17.01.2024;2024;Velo;Germany
+Enterprise;CUST_ID_125; 341,00 ; 38 362,50 ; -2 557,50 ;30.01.2024;2024;VTT;Germany
+Midmarket;CUST_ID_045; 641,00 ; 8 653,50 ; 2 243,50 ;30.08.2023;2023;VTT;Germany
+Government;CUST_ID_033; 2 807,00 ; 884 205,00 ; 154 385,00 ;04.09.2023;2023;VTT;USA
+Small Business;CUST_ID_017; 432,00 ; 116 640,00 ; 8 640,00 ;20.01.2024;2024;VTT;USA
+Enterprise;CUST_ID_105; 2 529,00 ; 284 512,50 ; -18 967,50 ;18.08.2023;2023;VTT;USA
+Enterprise;CUST_ID_148; 579,00 ; 65 137,50 ; -4 342,50 ;08.12.2024;2024;Amarilla;France
+Government;CUST_ID_047; 2 240,00 ; 705 600,00 ; 123 200,00 ;13.11.2024;2024;Amarilla;India
+Small Business;CUST_ID_144; 2 993,00 ; 808 110,00 ; 59 860,00 ;09.08.2024;2024;Amarilla;Japan
+Channel Partners;CUST_ID_095; 3 520,50 ; 38 021,40 ; 27 459,90 ;26.11.2023;2023;Amarilla;India
+Government;CUST_ID_093; 2 039,00 ; 36 702,00 ; 16 312,00 ;18.04.2023;2023;Amarilla;Germany
+Channel Partners;CUST_ID_098; 2 574,00 ; 27 799,20 ; 20 077,20 ;02.05.2024;2024;Amarilla;Canada
+Government;CUST_ID_047; 707,00 ; 222 705,00 ; 38 885,00 ;16.01.2024;2024;Amarilla;India
+Midmarket;CUST_ID_019; 2 072,00 ; 27 972,00 ; 7 252,00 ;24.11.2023;2023;Amarilla;England
+Small Business;CUST_ID_149; 853,00 ; 230 310,00 ; 17 060,00 ;11.12.2024;2024;Amarilla;Germany
+Government;CUST_ID_052; 2 532,00 ; 15 774,36 ; 3 114,36 ;16.09.2024;2024;Paseo;France
+Midmarket;CUST_ID_140; 384,00 ; 5 126,40 ; 1 286,40 ;08.06.2023;2023;Velo;France
+Channel Partners;CUST_ID_114; 472,00 ; 5 040,96 ; 3 624,96 ;28.11.2023;2023;Velo;Canada
+Government;CUST_ID_033; 1 579,00 ; 9 837,17 ; 1 942,17 ;06.02.2024;2024;VTT;USA
+Midmarket;CUST_ID_046; 3 199,50 ; 42 713,33 ; 10 718,33 ;15.04.2023;2023;Amarilla;Italy
+Channel Partners;CUST_ID_098; 472,00 ; 5 040,96 ; 3 624,96 ;13.10.2023;2023;Amarilla;Canada
+Channel Partners;CUST_ID_036; 1 937,00 ; 20 687,16 ; 14 876,16 ;04.10.2023;2023;Carretera;France
+Government;CUST_ID_048; 792,00 ; 246 708,00 ; 40 788,00 ;23.05.2023;2023;Carretera;Japan
+Small Business;CUST_ID_020; 2 811,00 ; 750 537,00 ; 47 787,00 ;31.08.2024;2024;Carretera;France
+Enterprise;CUST_ID_085; 2 441,00 ; 271 561,25 ; -21 358,75 ;05.04.2024;2024;Carretera;Germany
+Government;CUST_ID_037; 766,00 ; 238 609,00 ; 39 449,00 ;14.04.2024;2024;Montana;Germany
+Midmarket;CUST_ID_112; 2 157,00 ; 28 795,95 ; 7 225,95 ;30.08.2024;2024;Montana;Japan
+Small Business;CUST_ID_070; 873,00 ; 233 091,00 ; 14 841,00 ;31.12.2023;2023;Paseo;Italy
+Government;CUST_ID_040; 1 122,00 ; 19 971,60 ; 8 751,60 ;27.12.2023;2023;Paseo;Japan
+Government;CUST_ID_004; 2 104,50 ; 655 551,75 ; 108 381,75 ;03.12.2023;2023;Paseo;France
+Channel Partners;CUST_ID_060; 4 026,00 ; 42 997,68 ; 30 919,68 ;20.04.2024;2024;Paseo;France
+Channel Partners;CUST_ID_025; 2 425,50 ; 25 904,34 ; 18 627,84 ;01.12.2023;2023;Paseo;USA
+Government;CUST_ID_004; 2 394,00 ; 42 613,20 ; 18 673,20 ;12.03.2023;2023;Paseo;France
+Midmarket;CUST_ID_044; 1 984,00 ; 26 486,40 ; 6 646,40 ;24.11.2024;2024;Paseo;France
+Enterprise;CUST_ID_051; 2 441,00 ; 271 561,25 ; -21 358,75 ;05.10.2023;2023;Paseo;England
+Small Business;CUST_ID_070; 1 366,00 ; 364 722,00 ; 23 222,00 ;17.10.2023;2023;Paseo;Italy
+Government;CUST_ID_016; 1 808,00 ; 11 263,84 ; 2 223,84 ;08.04.2023;2023;Velo;Japan
+Channel Partners;CUST_ID_081; 1 734,00 ; 18 519,12 ; 13 317,12 ;03.10.2023;2023;VTT;USA
+Enterprise;CUST_ID_125; 554,00 ; 61 632,50 ; -4 847,50 ;04.06.2023;2023;VTT;Germany
+Enterprise;CUST_ID_073; 3 165,00 ; 352 106,25 ; -27 693,75 ;07.11.2023;2023;Amarilla;USA
+Government;CUST_ID_093; 2 629,00 ; 46 796,20 ; 20 506,20 ;26.04.2024;2024;Amarilla;Germany
+Enterprise;CUST_ID_138; 1 433,00 ; 159 421,25 ; -12 538,75 ;21.07.2023;2023;Amarilla;Canada
+Midmarket;CUST_ID_104; 2 157,00 ; 28 795,95 ; 7 225,95 ;27.10.2023;2023;Amarilla;Japan
+Government;CUST_ID_066; 886,00 ; 272 888,00 ; 42 528,00 ;07.12.2024;2024;Carretera;Canada
+Enterprise;CUST_ID_100; 2 156,00 ; 237 160,00 ; -21 560,00 ;18.10.2023;2023;Carretera;France
+Midmarket;CUST_ID_090; 2 689,00 ; 35 494,80 ; 8 604,80 ;16.06.2023;2023;Carretera;Canada
+Midmarket;CUST_ID_113; 677,00 ; 8 936,40 ; 2 166,40 ;02.11.2024;2024;Montana;USA
+Small Business;CUST_ID_078; 1 773,00 ; 468 072,00 ; 24 822,00 ;03.12.2024;2024;Montana;Italy
+Government;CUST_ID_049; 2 420,00 ; 14 907,20 ; 2 807,20 ;02.12.2023;2023;Montana;USA
+Government;CUST_ID_043; 2 734,00 ; 16 841,44 ; 3 171,44 ;07.05.2024;2024;Montana;England
+Small Business;CUST_ID_116; 3 495,00 ; 922 680,00 ; 48 930,00 ;03.09.2024;2024;Paseo;France
+Government;CUST_ID_040; 886,00 ; 272 888,00 ; 42 528,00 ;26.06.2023;2023;Paseo;Japan
+Enterprise;CUST_ID_024; 2 156,00 ; 237 160,00 ; -21 560,00 ;24.06.2023;2023;Paseo;Japan
+Government;CUST_ID_040; 905,00 ; 15 928,00 ; 6 878,00 ;02.05.2024;2024;Paseo;Japan
+Government;CUST_ID_052; 1 594,00 ; 490 952,00 ; 76 512,00 ;12.07.2023;2023;Paseo;France
+Small Business;CUST_ID_069; 1 359,00 ; 358 776,00 ; 19 026,00 ;25.10.2023;2023;Paseo;Germany
+Small Business;CUST_ID_003; 2 150,00 ; 567 600,00 ; 30 100,00 ;23.04.2024;2024;Paseo;England
+Government;CUST_ID_040; 1 197,00 ; 368 676,00 ; 57 456,00 ;27.03.2024;2024;Paseo;Japan
+Government;CUST_ID_040; 1 233,00 ; 21 700,80 ; 9 370,80 ;22.07.2024;2024;Paseo;Japan
+Government;CUST_ID_031; 1 395,00 ; 429 660,00 ; 66 960,00 ;06.02.2024;2024;Velo;India
+Government;CUST_ID_041; 986,00 ; 303 688,00 ; 47 328,00 ;19.12.2024;2024;Velo;USA
+Government;CUST_ID_031; 905,00 ; 15 928,00 ; 6 878,00 ;26.10.2024;2024;Velo;India
+Channel Partners;CUST_ID_142; 2 109,00 ; 22 271,04 ; 15 944,04 ;04.01.2024;2024;VTT;Italy
+Midmarket;CUST_ID_087; 3 874,50 ; 51 143,40 ; 12 398,40 ;22.12.2023;2023;VTT;India
+Government;CUST_ID_033; 986,00 ; 303 688,00 ; 47 328,00 ;07.01.2024;2024;VTT;USA
+Enterprise;CUST_ID_117; 2 387,00 ; 262 570,00 ; -23 870,00 ;22.12.2024;2024;VTT;Germany
+Government;CUST_ID_034; 1 233,00 ; 21 700,80 ; 9 370,80 ;17.04.2023;2023;VTT;Canada
+Government;CUST_ID_064; 270,00 ; 83 160,00 ; 12 960,00 ;27.01.2023;2023;Amarilla;Japan
+Government;CUST_ID_065; 3 421,50 ; 21 076,44 ; 3 968,94 ;13.01.2024;2024;Amarilla;USA
+Government;CUST_ID_047; 2 734,00 ; 16 841,44 ; 3 171,44 ;13.04.2024;2024;Amarilla;India
+Government;CUST_ID_021; 2 521,50 ; 44 378,40 ; 19 163,40 ;11.08.2024;2024;Carretera;Germany
+Channel Partners;CUST_ID_120; 2 661,00 ; 28 100,16 ; 20 117,16 ;12.07.2023;2023;Montana;Japan
+Government;CUST_ID_072; 1 531,00 ; 26 945,60 ; 11 635,60 ;19.05.2023;2023;Paseo;Japan
+Government;CUST_ID_008; 1 491,00 ; 9 184,56 ; 1 729,56 ;23.03.2023;2023;VTT;Japan
+Government;CUST_ID_056; 1 531,00 ; 26 945,60 ; 11 635,60 ;16.09.2023;2023;VTT;Japan
+Midmarket;CUST_ID_136; 2 567,00 ; 33 499,35 ; 7 829,35 ;04.12.2023;2023;Carretera;Japan
+Midmarket;CUST_ID_139; 2 567,00 ; 33 499,35 ; 7 829,35 ;21.06.2023;2023;VTT;England
+Government;CUST_ID_042; 923,00 ; 281 053,50 ; 41 073,50 ;08.04.2024;2024;Carretera;Canada
+Government;CUST_ID_021; 1 790,00 ; 545 055,00 ; 79 655,00 ;27.07.2023;2023;Carretera;Germany
+Government;CUST_ID_099; 982,50 ; 299 171,25 ; 43 721,25 ;24.11.2024;2024;Montana;England
+Government;CUST_ID_099; 1 298,00 ; 7 904,82 ; 1 414,82 ;21.05.2024;2024;Montana;England
+Channel Partners;CUST_ID_120; 604,00 ; 6 305,76 ; 4 493,76 ;10.07.2023;2023;Montana;Japan
+Government;CUST_ID_049; 2 255,00 ; 39 237,00 ; 16 687,00 ;21.03.2024;2024;Montana;USA
+Government;CUST_ID_043; 1 249,00 ; 21 732,60 ; 9 242,60 ;16.04.2023;2023;Montana;England
+Government;CUST_ID_027; 1 438,50 ; 8 760,47 ; 1 567,97 ;27.09.2023;2023;Paseo;England
+Small Business;CUST_ID_069; 807,00 ; 210 627,00 ; 8 877,00 ;23.06.2024;2024;Paseo;Germany
+Government;CUST_ID_027; 2 641,00 ; 45 953,40 ; 19 543,40 ;22.01.2024;2024;Paseo;England
+Government;CUST_ID_072; 2 708,00 ; 47 119,20 ; 20 039,20 ;27.10.2024;2024;Paseo;Japan
+Government;CUST_ID_004; 2 632,00 ; 801 444,00 ; 117 124,00 ;21.11.2023;2023;Paseo;France
+Enterprise;CUST_ID_122; 1 583,00 ; 172 151,25 ; -17 808,75 ;24.10.2024;2024;Paseo;Canada
+Channel Partners;CUST_ID_071; 571,00 ; 5 961,24 ; 4 248,24 ;30.08.2023;2023;Paseo;India
+Government;CUST_ID_052; 2 696,00 ; 16 418,64 ; 2 938,64 ;18.11.2024;2024;Paseo;France
+Midmarket;CUST_ID_006; 1 565,00 ; 20 423,25 ; 4 773,25 ;29.01.2024;2024;Paseo;Italy
+Government;CUST_ID_004; 1 249,00 ; 21 732,60 ; 9 242,60 ;27.12.2023;2023;Paseo;France
+Government;CUST_ID_072; 357,00 ; 108 706,50 ; 15 886,50 ;04.01.2023;2023;Paseo;Japan
+Channel Partners;CUST_ID_014; 1 013,00 ; 10 575,72 ; 7 536,72 ;18.11.2024;2024;Paseo;Italy
+Midmarket;CUST_ID_150; 3 997,50 ; 52 167,38 ; 12 192,38 ;22.12.2023;2023;Velo;Italy
+Government;CUST_ID_016; 2 632,00 ; 801 444,00 ; 117 124,00 ;05.03.2024;2024;Velo;Japan
+Government;CUST_ID_054; 1 190,00 ; 7 247,10 ; 1 297,10 ;07.05.2023;2023;Velo;Italy
+Channel Partners;CUST_ID_124; 604,00 ; 6 305,76 ; 4 493,76 ;10.09.2023;2023;Velo;France
+Channel Partners;CUST_ID_124; 410,00 ; 4 280,40 ; 3 050,40 ;14.02.2024;2024;Velo;France
+Channel Partners;CUST_ID_114; 1 013,00 ; 10 575,72 ; 7 536,72 ;17.08.2024;2024;Velo;Canada
+Enterprise;CUST_ID_105; 1 583,00 ; 172 151,25 ; -17 808,75 ;14.09.2023;2023;VTT;USA
+Midmarket;CUST_ID_137; 1 565,00 ; 20 423,25 ; 4 773,25 ;21.06.2024;2024;VTT;USA
+Enterprise;CUST_ID_143; 1 659,00 ; 180 416,25 ; -18 663,75 ;22.08.2023;2023;Amarilla;India
+Government;CUST_ID_065; 1 190,00 ; 7 247,10 ; 1 297,10 ;17.02.2024;2024;Amarilla;USA
+Channel Partners;CUST_ID_076; 410,00 ; 4 280,40 ; 3 050,40 ;22.01.2024;2024;Amarilla;France
+Government;CUST_ID_066; 2 579,00 ; 44 358,80 ; 18 568,80 ;03.03.2023;2023;Carretera;Canada
+Government;CUST_ID_057; 1 743,00 ; 29 979,60 ; 12 549,60 ;21.09.2024;2024;Carretera;USA
+Government;CUST_ID_048; 280,00 ; 1 685,60 ; 285,60 ;07.11.2023;2023;Carretera;Japan
+Government;CUST_ID_059; 293,00 ; 1 763,86 ; 298,86 ;03.05.2023;2023;Montana;England
+Midmarket;CUST_ID_038; 278,00 ; 3 586,20 ; 806,20 ;23.09.2023;2023;Paseo;Italy
+Government;CUST_ID_004; 2 428,00 ; 41 761,60 ; 17 481,60 ;29.11.2023;2023;Paseo;France
+Midmarket;CUST_ID_026; 1 767,00 ; 22 794,30 ; 5 124,30 ;20.02.2024;2024;Paseo;Canada
+Channel Partners;CUST_ID_025; 1 393,00 ; 14 375,76 ; 10 196,76 ;24.11.2023;2023;Paseo;USA
+Government;CUST_ID_056; 280,00 ; 1 685,60 ; 285,60 ;24.10.2023;2023;VTT;Japan
+Channel Partners;CUST_ID_083; 1 393,00 ; 14 375,76 ; 10 196,76 ;30.11.2024;2024;Amarilla;England
+Small Business;CUST_ID_011; 801,00 ; 206 658,00 ; 6 408,00 ;10.02.2023;2023;Carretera;England
+Small Business;CUST_ID_146; 1 496,00 ; 385 968,00 ; 11 968,00 ;26.02.2023;2023;Carretera;Canada
+Small Business;CUST_ID_134; 1 010,00 ; 260 580,00 ; 8 080,00 ;25.04.2024;2024;Carretera;Italy
+Midmarket;CUST_ID_107; 1 513,00 ; 19 517,70 ; 4 387,70 ;24.02.2023;2023;Carretera;England
+Midmarket;CUST_ID_090; 2 300,00 ; 29 670,00 ; 6 670,00 ;03.06.2024;2024;Carretera;Canada
+Government;CUST_ID_043; 2 227,50 ; 670 477,50 ; 91 327,50 ;13.05.2023;2023;Montana;England
+Government;CUST_ID_037; 1 199,00 ; 360 899,00 ; 49 159,00 ;01.07.2023;2023;Montana;Germany
+Government;CUST_ID_043; 200,00 ; 60 200,00 ; 8 200,00 ;17.08.2024;2024;Montana;England
+Government;CUST_ID_043; 388,00 ; 2 335,76 ; 395,76 ;08.10.2024;2024;Montana;England
+Midmarket;CUST_ID_131; 2 300,00 ; 29 670,00 ; 6 670,00 ;04.02.2024;2024;Montana;England
+Government;CUST_ID_040; 260,00 ; 4 472,00 ; 1 872,00 ;23.09.2023;2023;Paseo;Japan
+Channel Partners;CUST_ID_005; 2 914,00 ; 30 072,48 ; 21 330,48 ;26.11.2024;2024;Paseo;Germany
+Government;CUST_ID_052; 1 731,00 ; 10 420,62 ; 1 765,62 ;17.12.2023;2023;Paseo;France
+Government;CUST_ID_004; 700,00 ; 210 700,00 ; 28 700,00 ;10.07.2023;2023;Paseo;France
+Government;CUST_ID_027; 1 177,00 ; 354 277,00 ; 48 257,00 ;13.12.2023;2023;Paseo;England
+Enterprise;CUST_ID_030; 1 575,00 ; 169 312,50 ; -19 687,50 ;08.10.2024;2024;Velo;Italy
+Government;CUST_ID_041; 606,00 ; 10 423,20 ; 4 363,20 ;14.09.2024;2024;Velo;USA
+Small Business;CUST_ID_086; 2 460,00 ; 634 680,00 ; 19 680,00 ;20.01.2023;2023;Velo;Italy
+Government;CUST_ID_034; 2 903,00 ; 17 476,06 ; 2 961,06 ;07.02.2024;2024;VTT;Canada
+Small Business;CUST_ID_075; 2 541,00 ; 655 578,00 ; 20 328,00 ;09.07.2023;2023;VTT;England
+Small Business;CUST_ID_063; 1 496,00 ; 385 968,00 ; 11 968,00 ;25.08.2024;2024;VTT;India
+Small Business;CUST_ID_075; 1 010,00 ; 260 580,00 ; 8 080,00 ;16.05.2024;2024;VTT;England
+Small Business;CUST_ID_128; 888,00 ; 229 104,00 ; 7 104,00 ;06.11.2023;2023;Amarilla;Japan
+Enterprise;CUST_ID_148; 2 844,00 ; 305 730,00 ; -35 550,00 ;19.09.2023;2023;Amarilla;France
+Channel Partners;CUST_ID_083; 2 475,00 ; 25 542,00 ; 18 117,00 ;10.06.2023;2023;Amarilla;England
+Channel Partners;CUST_ID_018; 2 914,00 ; 30 072,48 ; 21 330,48 ;16.06.2024;2024;Amarilla;Canada
+Government;CUST_ID_065; 1 731,00 ; 10 420,62 ; 1 765,62 ;18.04.2023;2023;Amarilla;USA
+Enterprise;CUST_ID_085; 1 174,00 ; 124 737,50 ; -16 142,50 ;02.06.2024;2024;Carretera;Germany
+Enterprise;CUST_ID_058; 2 767,00 ; 293 993,75 ; -38 046,25 ;31.12.2024;2024;Carretera;Canada
+Enterprise;CUST_ID_058; 1 085,00 ; 115 281,25 ; -14 918,75 ;18.06.2024;2024;Carretera;Canada
+Small Business;CUST_ID_050; 546,00 ; 139 230,00 ; 2 730,00 ;14.01.2024;2024;Montana;Canada
+Government;CUST_ID_072; 1 158,00 ; 19 686,00 ; 8 106,00 ;18.05.2024;2024;Paseo;Japan
+Midmarket;CUST_ID_006; 1 614,00 ; 20 578,50 ; 4 438,50 ;10.10.2024;2024;Paseo;Italy
+Government;CUST_ID_040; 2 535,00 ; 15 083,25 ; 2 408,25 ;21.03.2024;2024;Paseo;Japan
+Government;CUST_ID_040; 2 851,00 ; 848 172,50 ; 106 912,50 ;13.03.2023;2023;Paseo;Japan
+Midmarket;CUST_ID_006; 2 559,00 ; 32 627,25 ; 7 037,25 ;06.10.2024;2024;Paseo;Italy
+Enterprise;CUST_ID_023; 1 085,00 ; 115 281,25 ; -14 918,75 ;30.12.2023;2023;Paseo;India
+Midmarket;CUST_ID_038; 1 175,00 ; 14 981,25 ; 3 231,25 ;16.07.2023;2023;Paseo;Italy
+Channel Partners;CUST_ID_005; 914,00 ; 9 322,80 ; 6 580,80 ;16.11.2023;2023;Paseo;Germany
+Government;CUST_ID_052; 293,00 ; 4 981,00 ; 2 051,00 ;15.10.2023;2023;Paseo;France
+Channel Partners;CUST_ID_124; 500,00 ; 5 100,00 ; 3 600,00 ;07.02.2024;2024;Velo;France
+Midmarket;CUST_ID_150; 2 826,00 ; 36 031,50 ; 7 771,50 ;13.11.2024;2024;Velo;Italy
+Enterprise;CUST_ID_053; 663,00 ; 70 443,75 ; -9 116,25 ;19.04.2023;2023;Velo;Germany
+Channel Partners;CUST_ID_132; 914,00 ; 9 322,80 ; 6 580,80 ;12.05.2024;2024;Velo;France
+Government;CUST_ID_055; 865,50 ; 14 713,50 ; 6 058,50 ;24.06.2024;2024;VTT;India
+Midmarket;CUST_ID_039; 492,00 ; 6 273,00 ; 1 353,00 ;15.10.2023;2023;VTT;India
+Midmarket;CUST_ID_039; 1 175,00 ; 14 981,25 ; 3 231,25 ;09.04.2024;2024;VTT;India
+Enterprise;CUST_ID_130; 552,00 ; 58 650,00 ; -7 590,00 ;27.12.2024;2024;VTT;Canada
+Government;CUST_ID_008; 293,00 ; 4 981,00 ; 2 051,00 ;10.12.2023;2023;VTT;Japan
+Small Business;CUST_ID_149; 2 475,00 ; 631 125,00 ; 12 375,00 ;28.03.2023;2023;Amarilla;Germany
+Small Business;CUST_ID_127; 546,00 ; 139 230,00 ; 2 730,00 ;16.12.2023;2023;Amarilla;India
+Government;CUST_ID_049; 1 368,00 ; 8 139,60 ; 1 299,60 ;22.04.2024;2024;Montana;USA
+Government;CUST_ID_004; 723,00 ; 4 301,85 ; 686,85 ;28.01.2024;2024;Paseo;France
+Channel Partners;CUST_ID_147; 1 806,00 ; 18 421,20 ; 13 003,20 ;19.03.2023;2023;VTT;England
